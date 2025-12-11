@@ -1,0 +1,53 @@
+body{
+    background: url(galaxy.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    
+}
+.login{
+    background-color: rgba(15,14,14,0.8);
+    padding: 20px;
+    margin: 100px 30px 100px 30rem;
+    border-radius: 2%;
+    align-items: center;
+
+}
+h2{
+    color: greenyellow;
+    margin: 10px 40px 45px;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.xaar input{
+    background-color:black;
+    color: white;
+    font-weight: 50%;
+    margin: 10x 15px 20pxpx 25px;
+    width: 100%;
+    height: 25px;
+    border: none;
+}
+.bax{
+    color: white;
+    display: flex;
+    gap: 1.5rem;
+}
+#forget{
+   margin-right: auto;
+}
+#sin{
+    color: greenyellow;
+    margin-left: auto;
+}
+#inp{
+    background-color: greenyellow;
+    color: black;
+    font-size: large;
+    border: none;
+    width: 100%;
+    height: 25px;
+    border-radius: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-weight: 800;
+}
